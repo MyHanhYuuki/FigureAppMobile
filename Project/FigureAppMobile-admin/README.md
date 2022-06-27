@@ -1,5 +1,5 @@
 # admin
-đăng nhập với account:
+Đăng nhập với account:
 
-name : admin@gmail.com
-password : 123456
+Name : admin@gmail.com
+Password : 123456
